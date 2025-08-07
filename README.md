@@ -3,6 +3,8 @@ so like, i kinda just do whatever on github
 
 i have a repository that i put code on sometimes so that's nice ig
 
+oh and i'm also working on a discord bot
+
 ngl idrk what else to say so uhhh
 
 # daily.dev devcard
