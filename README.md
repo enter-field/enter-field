@@ -1,5 +1,7 @@
-# yello
+# yello there
 
-i'm andrew, a programmer who specialises in multiple languages
+i'm andrew (aka. enter_field), a person who sometimes programs
 
-i have a website of my own (which you can visit by going to https://enter-field.github.io)
+i made and still maintain [a website](https://enter-field.github.io), which is nice
+
+i've also made a few electron projects, so thats nice as well
